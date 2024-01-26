@@ -1,10 +1,10 @@
-# This is a mini game developed by me as part of the learning pygame
+# This is a mini game developed by me as part of learning pygame
 ## This game is called Space Invaders
 
-<p> I used pygame Library for cxreating this stuning Game</p>
+<p> I used pygame Library for creation of this stuning Game.</p>
 
 # Instructions
-<ul>
+<ol type=I>
   <li>First Clone the respository to your Local machine</li>
   <li>Open VScode and select option Open Folder</li>
   <li>Select specific folder click Select</li>
