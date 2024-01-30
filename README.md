@@ -8,7 +8,7 @@
   <li> First Clone the respository to your Local machine</li>
   <li> Open VScode and select option Open Folder</li>
   <li> Select specific folder click Select</li>
-  <li> After that U can Run the game</li>
+  <li> By clicking this you can be able to play the game. </li>
 </ul>
 
 
