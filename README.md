@@ -1,10 +1,19 @@
-# This is a mini game developed by me as part of learning pygame
-## This game is called Space Invaders
+<div align="center">
 
-<p> I used pygame Library for creation of this stuning Game.</p>
 
-# Instructions
-<ol type=I>
+  <div>
+    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=ffde57&logo=python&color=4584b6" alt="androidstudio" />
+  </div>
+
+  <h3 align="center">Space Invaders</h3>
+
+
+</div>
+🤖 Introduction
+
+This is a mini game developed by me as part of learning pygame
+
+<ul>
   <li> First Clone the respository to your Local machine</li>
   <li> Open VScode and select option Open Folder</li>
   <li> Select specific folder click Select</li>
